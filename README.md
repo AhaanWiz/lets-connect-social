@@ -68,3 +68,20 @@ Welcome to the Let's Connect Social project! This guide will help you set up the
 - **ChakraUI**: A simple, modular component library for React applications that helps in creating accessible and responsive user interfaces with ease.
   
 - **React-icons**: A library that provides a collection of free, high-quality icons to use in React applications, enhancing visual appeal and functionality.
+
+# Features
+
+- Using JWT token for secure registration and login which will generate a token with a 14-day expiry. This token will be used for authenticating and providing current user data to our backend.
+
+- Full CRUD (Create, Read, Update, Delete) functionality to create and edit user profiles, allowing users to manage their personal information and preferences.
+
+- Complete CRUD functionality with a RESTful API for users to post various types of content, including text, images, videos, and links, enabling rich and diverse user interactions.
+
+- Built with Express to provide functionality for interacting with other users' posts, including liking, commenting, and sharing, to foster community engagement.
+
+- Implemented real-time messaging between users using Socket.io, allowing for instant communication and enhancing user connectivity.
+
+- Storing a comprehensive database that includes posts, users, messages, likes, comments, and other relevant data to ensure robust data management and retrieval.
+
+- Webapp can be viewed in both dark mode and light mode, with the help of ChakraUI, offering users a customizable and visually appealing interface.
+
