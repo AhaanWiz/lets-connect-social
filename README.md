@@ -44,3 +44,27 @@ Welcome to the Let's Connect Social project! This guide will help you set up the
 
    ```sh
    npm start
+
+## Technologies Used
+
+- **MongoDB**: A widely-used NoSQL database for efficient data storage and retrieval.
+  
+- **ExpressJS**: A minimalist web framework for Node.js that simplifies building robust APIs and web applications.
+  
+- **React**: A powerful JavaScript library for building user interfaces with a component-based architecture and efficient rendering.
+  
+- **NodeJS**: An asynchronous event-driven JavaScript runtime environment, designed to build scalable network applications.
+  
+- **Recoil**: A state management library for React applications, offering a more intuitive and flexible approach to managing state.
+  
+- **JWT (JSON Web Tokens)**: A compact, URL-safe means of representing claims securely between two parties, commonly used for user authentication and authorization.
+  
+- **BCryptJS**: A JavaScript library for hashing passwords using bcrypt, ensuring secure storage of user credentials.
+  
+- **Cloudinary**: A cloud-based service that provides an end-to-end image and video management solution, including storage, manipulation, optimization, and delivery.
+  
+- **Socket.io**: A library that enables real-time, bidirectional, and event-based communication between clients and servers using WebSockets, essential for building applications that require instant data updates.
+  
+- **ChakraUI**: A simple, modular component library for React applications that helps in creating accessible and responsive user interfaces with ease.
+  
+- **React-icons**: A library that provides a collection of free, high-quality icons to use in React applications, enhancing visual appeal and functionality.
